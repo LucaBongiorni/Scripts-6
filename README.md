@@ -9,3 +9,8 @@ pwned.py
 Is an automatic "haveibeenpwned.com" checker. <br>
 Put emails/usernames (one per line) in a "test.txt" file and it will check, if they have been pwned or not.<br>
 If pwned, all affected domains or leakelists are listed.
+
+sort.py
+-
+Sorts lines in a file alphabetically. <br>
+Filters out lines which begins with '.' or ends with '.' or '-'
